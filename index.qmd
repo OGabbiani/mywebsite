@@ -1,5 +1,14 @@
 ---
-title: "mywebsite"
+title: "Odile Gabbiani"
+toc: false 
+about: 
+  template: solana
+  links:
+    - text: GitHub 
+      href: https://github.com/OGabbiani
+    - text: Email 
+      href: mailto:odilegabbiani@ucsb.edu
+    
 ---
 
 This is a Quarto website.
