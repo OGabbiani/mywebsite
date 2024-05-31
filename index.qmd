@@ -1,8 +1,11 @@
 ---
 title: "Odile Gabbiani"
+image: ENVS-193DS/OGpic.jpeg
 toc: false 
 about: 
   template: solana
+  image-shape: round
+  image-width: 20em
   links:
     - text: GitHub 
       href: https://github.com/OGabbiani
@@ -11,7 +14,7 @@ about:
     
 ---
 
-This is a Quarto website.
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
