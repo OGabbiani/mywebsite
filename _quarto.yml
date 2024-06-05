@@ -3,16 +3,19 @@ project:
   output-dir: docs 
 
 website:
-  title: "mywebsite"
+  title: "Odile Gabbiani"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - research.qmd
+      - hiking.qmd
 
 format:
   html:
-    theme: cosmo
+    page-layout: full
+    theme: minty
     css: styles.css
     toc: true
 

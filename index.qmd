@@ -1,23 +1,28 @@
 ---
 title: "Odile Gabbiani"
-image: ENVS-193DS/OGpic.jpeg
+image: OGpic.jpeg
 toc: false 
-about: 
-  template: solana
+about:
+  template: trestles
   image-shape: round
   image-width: 20em
   links:
-    - text: GitHub 
+    - icon: github
+      text: GitHub 
       href: https://github.com/OGabbiani
-    - text: Email 
+    - icon: envelope
+      text: Email 
       href: mailto:odilegabbiani@ucsb.edu
-    
 ---
 
+**About Me**
 
+Hi There! Welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Odile Gabbiani and I am a third year Environmental Studies (B.S.) student at UCSB! Along with getting an education, I am also involved in independent research on campus. In my free time I love hiking and cooking.
 
-```{r}
+**Education** 
 
-```
+B.S in Environmental Studies, June 2025 
+
+University of California Santa Barbara

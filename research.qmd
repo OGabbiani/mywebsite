@@ -1,0 +1,24 @@
+---
+title: "Research"
+image: FWI.1.jpeg
+about: 
+  template: trestles
+  image-shape: rectangle
+---
+
+---
+image: FWI.2.jpeg
+---
+
+**Research**
+
+Phytoremediation and Floating Wetland Islands 
+
+Phytoremediation, or the use of plants to clean up environmental damage, is a growing field whose uses are being studied. This project analyzed the potential for native wetland plants to remediate minor environmental issues in brackish aquatic systems. To do so four species, *Bolboschoenus maritimus, Salicornia pacifica, Jaumea carnosa, and Juncus acutus* were placed on floating platorms to create articifial floating wetlands. 
+
+Each plant's viability and ability to remove carbon and nitrogen from the UCSB Lagoon were analyzed. 
+
+
+
+
+
