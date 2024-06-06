@@ -2,9 +2,6 @@
 title: "Research"
 #image: FWI.1.jpeg
 format: html
-about: 
-  template: trestles
-  image-shape: rectangle
 ---
 
 ![Installation of FWI on UCSB Lagoon](FWI.1.jpeg)

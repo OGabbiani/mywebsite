@@ -1,34 +1,38 @@
 ---
 title: Hiking
 format: html
+toc: false
 lightbox: true 
 ---
-
-# Multiple Images Example
-
-## Image 1
-
-![View on the Aosta Valley](MontPaillasse1.JPG)
-
-## Image 2
-
-![View of Alps from Mont Paillasse](MontPaillase2.JPG)
-
-## Images Side by Side
-
-<div style="display: flex; justify-content: space-around;">
-  <div style="margin: 10px;">
-    <img src="images/image3.png" alt="Description of Image 3" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="images/image4.png" alt="Description of Image 4" />
-  </div>
-</div>
-
-**Hiking**
-
 In my free time I enjoy hiking around the world! On this page you can take a look at some of my favorite hikes!
 
-Mont Paillasse, Rhemes-Saint-George, Italy 
 
+**Mont Paillasse, Rhemes-Saint-George, Italy**
 
+![View of Alps from Mont Paillasse](MontPaillasse1.JPG)
+
+![View on the Aosta Valley](MontPaillasse2.JPG)
+
+::: {style="display: flex; justify-content: space-around;"}
+::: {style="margin: 10px;"}
+:::
+
+::: {style="margin: 10px;"}
+:::
+:::
+
+**Joshua Tree National Park** 
+
+![Joshua Tree](JTree.jpg)
+
+**Great Smoky Mountains National Park** 
+
+![View from the Foothills Pathway](GreatSmokyMts.JPG)
+
+**Dixon, New Mexico**
+
+![View on the Taos Mountains](Dixon.jpg)
+
+**Mont Blanc, France**
+
+![View from Mont Blanc](MontBlanc.JPG)

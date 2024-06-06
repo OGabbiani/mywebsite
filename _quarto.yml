@@ -16,6 +16,7 @@ format:
   html:
     page-layout: full
     theme: minty
+    mainfont: Ubuntu
     css: styles.css
     toc: true
 
