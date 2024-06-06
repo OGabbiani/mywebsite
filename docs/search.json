@@ -4,7 +4,28 @@
     "href": "hiking.html",
     "title": "Hiking",
     "section": "",
-    "text": "Hiking\nIn my free time I enjoy hiking around the world! On this page you can take a look at some of my favorite hikes!"
+    "text": "View on the Aosta Valley\n\n\n\n\n\n\n\n\nView of Alps from Mont Paillasse\n\n\n\n\n\n\n\n&lt;img src=\"images/image3.png\" alt=\"Description of Image 3\" /&gt;\n\n\n&lt;img src=\"images/image4.png\" alt=\"Description of Image 4\" /&gt;\n\n\nHiking\nIn my free time I enjoy hiking around the world! On this page you can take a look at some of my favorite hikes!\nMont Paillasse, Rhemes-Saint-George, Italy"
+  },
+  {
+    "objectID": "hiking.html#image-1",
+    "href": "hiking.html#image-1",
+    "title": "Hiking",
+    "section": "",
+    "text": "View on the Aosta Valley"
+  },
+  {
+    "objectID": "hiking.html#image-2",
+    "href": "hiking.html#image-2",
+    "title": "Hiking",
+    "section": "",
+    "text": "View of Alps from Mont Paillasse"
+  },
+  {
+    "objectID": "hiking.html#images-side-by-side",
+    "href": "hiking.html#images-side-by-side",
+    "title": "Hiking",
+    "section": "",
+    "text": "&lt;img src=\"images/image3.png\" alt=\"Description of Image 3\" /&gt;\n\n\n&lt;img src=\"images/image4.png\" alt=\"Description of Image 4\" /&gt;\n\n\nHiking\nIn my free time I enjoy hiking around the world! On this page you can take a look at some of my favorite hikes!\nMont Paillasse, Rhemes-Saint-George, Italy"
   },
   {
     "objectID": "index.html",
@@ -18,7 +39,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Research\nPhytoremediation and Floating Wetland Islands\nPhytoremediation, or the use of plants to clean up environmental damage, is a growing field whose uses are being studied. This project analyzed the potential for native wetland plants to remediate minor environmental issues in brackish aquatic systems. To do so four species, Bolboschoenus maritimus, Salicornia pacifica, Jaumea carnosa, and Juncus acutus were placed on floating platorms to create articifial floating wetlands.\nEach plant’s viability and ability to remove carbon and nitrogen from the UCSB Lagoon were analyzed."
+    "text": "Installation of FWI on UCSB Lagoon\n\n\nResearch\nPhytoremediation and Floating Wetland Islands\nPhytoremediation, or the use of plants to clean up environmental damage, is a growing field whose uses are being studied. This project analyzed the potential for native wetland plants to remediate minor environmental issues in brackish aquatic systems. To do so four species, Bolboschoenus maritimus, Salicornia pacifica, Jaumea carnosa, and Juncus acutus were placed on floating platorms to create articifial floating wetlands.\nEach plant’s viability and ability to remove carbon and nitrogen from the UCSB Lagoon were analyzed."
   },
   {
     "objectID": "about.html",
