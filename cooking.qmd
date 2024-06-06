@@ -1,3 +1,21 @@
 ---
 title: Cooking
 ---
+
+Along with hiking, I enjoy cooking! On this page you can take a look at my favorite meals to make. 
+
+**Pizza**
+
+![Pizza!](pizza.jpg)
+
+**Jambalaya** 
+
+![Mardi Gras Jambalaya](jambalaya.jpg)
+
+**Salade Niçoise**
+
+![Traditional salad from southern France](nicoise.jpg)
+
+**Asparagus Risotto** 
+
+![Risotto agli Asparagi](risotto.jpg)
