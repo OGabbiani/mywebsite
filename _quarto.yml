@@ -11,6 +11,7 @@ website:
       - about.qmd
       - research.qmd
       - hiking.qmd
+      - cooking.qmd
 
 format:
   html:
