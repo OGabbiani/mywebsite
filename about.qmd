@@ -1,7 +1,27 @@
 ---
 title: "About"
+image: valsavarenche.JPG
+about: 
+  template: trestles
 ---
 
 On this site, you can take a look at my independent research project and the things I love doing outside of school, namely hiking and cooking!
 
-![View on Gran Paradiso, Aosta Valley, Italy](valsavarenche.JPG)
+
+**Independent Research**
+
+Over this school year, I worked on an independent research project looking into the ability of plants to remediate environmental damage and pollution on the UCSB Lagoon. This required developing a research question and proposal, writing grants, constructing and conducting the experiment, and collecting data.
+
+To conduct this experiment I incorporated knowledge from Environmental Studies classes I had previously taken including: 
+
+   - ES 95: Introduction to Ecological Restoration Field Skills
+
+   - ES 137: Conservation Planning  
+
+   - ES 114: Soils of California  
+
+
+**Hiking and Cooking**
+
+Outside of school and research some of my favorite activities are cooking and hiking. While I enjoy both of these activities, they also allow me to connect with and experience my French, Swiss, and Italian cultural identity. Cooking traditional meals ties me back to where I am from and allows me to maintain my relationship to my family and culture. Hiking lets me experience the outdoors and connect with people and the planet.  
+

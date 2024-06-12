@@ -16,10 +16,13 @@ website:
 format:
   html:
     page-layout: full
-    theme: minty
+    theme: 
+      - minty 
+      - styles.scss
     mainfont: Ubuntu
     css: styles.css
     toc: true
+    lightbox: true
 
 editor: visual
 
